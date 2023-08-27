@@ -1,0 +1,12 @@
+.page {
+ width: 1280px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+}
+
+.card {
+    width: 33%;
+    height: 420px;
+    padding: 2px;
+}
