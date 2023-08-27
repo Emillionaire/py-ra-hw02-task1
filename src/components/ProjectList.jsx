@@ -3,8 +3,6 @@ import styles from './ProjectList.module.css';
 const ProjectListComponent = (projects) => {
     let keyId = 0;
 
-    console.log(projects)
-
     return (
         <>
             <div className={styles.page}>
